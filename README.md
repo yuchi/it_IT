@@ -6,6 +6,8 @@ Questa è la versione italiana del mio blog personale.
 Mi caratterizza una perversione per la semantica, è probabile che gli articoli
 trattino di questo.
 
+A breve la versione inglese.
+
 Indice
 ======
 
