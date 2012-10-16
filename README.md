@@ -16,5 +16,6 @@ Indice
 
 ### Ottobre
 
-- 14 — [La semantica](https://github.com/yuchi/it_IT/blob/master/2012/10/14/la_semantica.md)
-- 15 — [Archivio](https://github.com/yuchi/it_IT/blob/master/2012/10/15/archivio.md)
+- Domenica 14 — [La semantica](https://github.com/yuchi/it_IT/blob/master/2012/10/14/la_semantica.md)
+- Lunedì 15 — [Archivio](https://github.com/yuchi/it_IT/blob/master/2012/10/15/archivio.md)
+- Martedì 16 — [Il formato](https://github.com/yuchi/it_IT/blob/master/2012/10/16/il_formato.md)
