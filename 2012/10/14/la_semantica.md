@@ -1,4 +1,3 @@
-
 La semantica
 ============
 
@@ -16,7 +15,7 @@ Abbiamo appiattito la presentazione estetica ad un mero fatto decorativo, un non
 necessario abbellimento grafico.  Per questo motivo buona parte degli articoli
 che leggiamo può essere letto *indiscriminatamente* dal sito di origine, da RSS,
 da e-book, su un qualche aggregatore di news, su un qualche aggregatore di feed
-sociali e non ci siamo installati sul device mobile.  Il godibilità del
+sociali e non che ci siamo installati sul device mobile.  Il godibilità del
 contenuto non viene inficiata dal supporto.
 
 Ci si potrebbe chiedere se questo è davvero un problema. Nel mondo del codice
