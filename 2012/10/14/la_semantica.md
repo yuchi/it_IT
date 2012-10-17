@@ -59,7 +59,8 @@ migliorato per farlo funzionare.  Lo abbiamo ucciso.
 
 Avevamo bisogno di dotare dei device della capacità di accedere ai contenuti, e
 allo stesso tempo avevamo visogno di renderli leggibili alle macchine. C'era il
-sogno del "Grande Database", quello di Wikipedia, quello di Semantic MediaWiki.
+sogno del "Grande Database", quello di Wikipedia, quello di [Semantic
+MediaWiki][1].
 
 Non abbiamo risolto il problema di Flash, né abbiamo dato una soluzione
 alternativa al problema della leggibilità dei dati. Ci siamo limitati ad
@@ -104,3 +105,6 @@ dei contenuti dalla presentazione trattano.  Non posso nascondere che il mio
 desiderio sia quello di trovare una soluzione allo stato delle cose.
 
 Spero di poter dare buone notizie a breve.
+
+
+[1]: http://www.semantic-mediawiki.org/
