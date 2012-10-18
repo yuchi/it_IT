@@ -1,4 +1,3 @@
-
 La _quaternum_ — parte I
 ========================
 
@@ -98,8 +97,8 @@ modifiche, per ogni paragrafo del documento—colpevole il florilegio di editor
 _wysiwyg_ che semplificavano la vita del povero autore di contenuti web e che
 facevano largo uso dell'elemento `font`.
 
-Come redimere tanti peccatori?  Bisogn deprecare questi aspetti sconvenienti e
-offrire una soluzione più "figa", ma che forzi lo sviluppatore a ripensare in
+Come redimere tanti peccatori?  Bisognava deprecare questi aspetti sconvenienti
+e offrire una soluzione più "figa", ma che forzi lo sviluppatore a ripensare in
 termini semantici.
 
 Bonus: si può accentrare tutto lo stile in un punto unico chiamato `style` e poi
@@ -160,7 +159,7 @@ nascosto dietro qualche manciata di file `.css`.
 
 Le immagini in HTML hanno l'attribute `alt`, che specifica una versione
 testuale, nel caso in cui il browser sia incapace di mostrarla.  Ma lo stile?
-Il colore di sfondo?  Ho più precisamente, il contrasto tra sfondo e testo?
+Il colore di sfondo?  O più precisamente, il contrasto tra sfondo e testo?
 L'emozionalità che traspare dalle scelte cromatiche?  Dov'è l'attributo `alt`
 dell'elemento `style`?
 
