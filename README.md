@@ -20,3 +20,4 @@ Indice
 - Lunedì 15 — [Archivio](https://github.com/yuchi/it_IT/blob/master/2012/10/15/archivio.md)
 - Martedì 16 — [Il formato](https://github.com/yuchi/it_IT/blob/master/2012/10/16/il_formato.md)
 - Mercoledì 17 — [La _quaternum_](https://github.com/yuchi/it_IT/blob/master/2012/10/17/la_quaternum_parte_i.md)
+- Giovedì 19 — [Il progetto](https://github.com/yuchi/it_IT/blob/master/2012/10/18/il_progetto.md)
