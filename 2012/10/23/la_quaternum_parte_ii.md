@@ -133,7 +133,7 @@ risolverlo sarà davvero difficile, visto che si sono stabilite così bene.
 Todo
 ----
 
-Restano due cose da fare:
+Restano tre cose da fare:
 
 1. dimostrare che la grafica concorre alla produzione del messaggio;
 2. dimostrare che il paralogismo esposto prima sia effettivemente ciò che
