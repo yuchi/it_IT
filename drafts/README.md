@@ -9,6 +9,6 @@ documenti.
 Dubito che qualcuno le leggerà mai.
 
 In ogni caso, date poco conto alle conclusioni che potete trarre dalla
-lettura di uesti documenti, tenete sempre a mente che non sono
+lettura di questi documenti, tenete sempre a mente che non sono
 terminati.
 
