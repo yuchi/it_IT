@@ -1,9 +1,6 @@
 
-Pier Paolo Ramon
-================
-
-> _Almost, but not quite, entirely unlike interface designer_
-
+Su di me
+========
 
 Il programmatore
 ----------------
