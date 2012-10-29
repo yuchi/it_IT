@@ -11,13 +11,20 @@ body > header {
   padding: 2em 0;
 }
 
-body > header > h1 {
+body > header h1 {
   color: #C83C52;
   padding: 0px;
   margin: 0px;
 }
 
-body > header > h2 {
+body > header h1 em {
+  color: #666;
+}
+
+body > header h2 {
+  font-weight: normal;
+  color: #444;
+  font-size: 14px;
   margin: 2em 0;
   padding: 1em 2ex;
   border-color: #C83C52;
