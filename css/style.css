@@ -4,3 +4,35 @@ body {
   margin: 0 auto;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+body > header {
+  position: relative;
+  color: #444;
+  padding: 2em 0;
+}
+
+body > header > h1 {
+  color: #C83C52;
+  padding: 0px;
+  margin: 0px;
+}
+
+body > header > h2 {
+  margin: 2em 0;
+  padding: 1em 2ex;
+  border-color: #C83C52;
+  border-style: solid none;
+  border-width: 2px 0;
+}
+
+h1,
+h2,
+h3 {
+  color: #C83C52;
+  margin: 1em 0;
+}
+
+p {
+  margin: 1em 0;
+  line-height: 1.4em;
+}
